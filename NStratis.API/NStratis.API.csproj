@@ -93,8 +93,8 @@
       <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="NStratis.Indexer, Version=0.0.2.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\NStratis.Indexer.0.0.2-alpha\lib\net45\NStratis.Indexer.dll</HintPath>
+    <Reference Include="NStratis.AzureIndexer, Version=0.0.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\NStratis.AzureIndexer.0.0.1-alpha\lib\net45\NStratis.AzureIndexer.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System.Net.Http" />

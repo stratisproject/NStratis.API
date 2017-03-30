@@ -6,22 +6,22 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 #if SERVER
-[assembly: AssemblyTitle("NStratis.QBitNinja")]
+[assembly: AssemblyTitle("NStratis.API.Server")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("NStratis.QBitNinja")]
-[assembly: AssemblyProduct("NStratis.QBitNinja")]
-[assembly: AssemblyCopyright("Copyright © QBitNinja 2014")]
+[assembly: AssemblyCompany("Stratis Platform")]
+[assembly: AssemblyProduct("NStratis.API.Server")]
+[assembly: AssemblyCopyright("Copyright © Stratis Platform 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: InternalsVisibleTo("NStratis.API.Tests")]
 #else
-[assembly: AssemblyTitle("NStratis.QBitNinja.Client")]
+[assembly: AssemblyTitle("NStratis.API.Client")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("NStratis.QBitNinja")]
-[assembly: AssemblyProduct("NStratis.QBitNinja.Client")]
-[assembly: AssemblyCopyright("Copyright © QBitNinja 2015")]
+[assembly: AssemblyCompany("Stratis Platform")]
+[assembly: AssemblyProduct("NStratis.API.Client")]
+[assembly: AssemblyCopyright("Copyright © Stratis Platform 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 #endif
@@ -43,6 +43,6 @@ using System.Runtime.InteropServices;
 //
 // You can specify all the values or you can default the Revision and Build Numbers 
 // by using the '*' as shown below:
-[assembly: AssemblyInformationalVersion("0.0.1-alpha")]
+[assembly: AssemblyInformationalVersion("0.0.2-alpha")]
 [assembly: AssemblyVersion("0.0.1.0")]
 [assembly: AssemblyFileVersion("0.0.1.0")]

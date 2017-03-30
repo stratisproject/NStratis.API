@@ -2,10 +2,10 @@
 <package >
 	<metadata>
 		<id>NStratis.API.Client</id>
-		<version>0.0.1-alpha</version>
+		<version>0.0.2-alpha</version>
 		<title>NStratis.API Client</title>
 		<authors>Stratis Platform</authors>
-		<owners>NStratis.QBitNinja</owners>
+		<owners>NStratis.API.Server</owners>
 		<iconUrl>http://stratisplatform.com/files/2016/06/Stratis_Logo-Full_Colored_On-White.jpg</iconUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>

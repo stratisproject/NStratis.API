@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>NStratis.API.Server</id>
-    <version>0.0.1-alpha</version>
+    <version>0.0.2-alpha</version>
     <title>NStratis.API Server</title>
     <authors>Stratis Platform</authors>
     <owners>$author$</owners>
@@ -34,7 +34,7 @@
         <dependency id="Microsoft.WindowsAzure.ConfigurationManager" version="3.1.0" />
         <dependency id="Newtonsoft.Json" version="9.0.1" />
         <dependency id="NStratis" version="3.0.2.10" />
-        <dependency id="NStratis.Indexer" version="0.0.2-alpha" />
+        <dependency id="NStratis.AzureIndexer" version="0.0.1-alpha" />
         <dependency id="System.Spatial" version="5.6.4" />
         <dependency id="WebGrease" version="1.6.0" />
         <dependency id="WindowsAzure.ServiceBus" version="3.0.9" />
